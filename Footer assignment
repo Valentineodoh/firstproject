@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta carset="UTF-8">
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: blue;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<title>footer assignment</title>
+<body>
+<img src="car.jpg.jpeg" alt="car" style="width:100%">
+
+<div class="car">
+<p>My name is <strong>Valentine Ifeanyi</strong>. A graduate of university of Nigeria Nsukka.</p>
+<p>Im currently working with Moniepoint as a <em>POS Technician.</em></p>
+<p>I have 5 years working experience as an engineer. 
+</p>
+</div>
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+
+</body>
+
+
+
+
+
+</html>
+
