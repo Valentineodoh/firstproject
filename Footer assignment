@@ -25,7 +25,18 @@
 <p>I have 5 years working experience as an engineer. 
 </p>
 </div>
+<div class="row">
+<div class="w3-third">
+<img src="car1.jpg.jpeg" alt="car1" style=width:100%">
+</div>
+<div class="w3-third">
+<img src="flower.jpg.jpeg" alt="flower" style=width:100%">
+</div>
+<div class="w3-third">
+<img src="cat.jpg.jpeg" alt="cat" style=width:100%">
+</div>
 
+</div>
 <div class="footer">
   <p>Footer</p>
 </div>
